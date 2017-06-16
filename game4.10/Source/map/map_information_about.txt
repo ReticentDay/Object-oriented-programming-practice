@@ -1,0 +1,12 @@
+﻿//the txt name:map_information_(number of level format(xxx))
+//Map information:
+//List Type:x y height weight Mode type
+//Mode: monster obstacle
+//monster type: N_man
+				
+//obstacle type:green_tree
+
+//Ex:
+0 48 48 48 monster N_man
+0 48 48 48 obstacle green_tree
+0 96 48 48 obstacle green_tree

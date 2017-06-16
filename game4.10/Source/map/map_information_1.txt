@@ -1,0 +1,10 @@
+﻿192 48 48 48 monster N_man
+0 48 48 48 obstacle green_tree
+0 96 48 48 obstacle green_tree
+144 96 48 48 obstacle green_tree
+144 144 48 48 obstacle green_tree
+480 480 48 48 obstacle green_tree
+480 432 48 48 obstacle green_tree
+580 600 48 48 obstacle green_tree
+580 690 48 48 obstacle green_tree
+1002 23 48 48 obstacle green_tree
